@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Autenticacion en OrangeHRM" skipped="0" tests="2" time="8.51" timestamp="2025-07-05 06:17:13"><testcase name="Login exitoso con credenciales válidas"/><testcase name="Visualizacion del panel de busqueda de permisos en el dashboard"/></testsuite>
